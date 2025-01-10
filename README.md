@@ -1,8 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Event Propagation**
+## **State: A Component's Memory**
 
-Welcome to **Branch 2.2** of the **React Lab**! In this branch, I’ve explored **React event propagation** to understand how events traverse React components and the importance of effectively managing this flow. I’ve also learned techniques to stop event propagation, experimented with passing handlers as an alternative, and investigated methods to prevent default behaviors in React applications.
+Welcome to **Branch 2.3** of the **React Lab**! In this branch, I’ve explored the concept of **React State** to understand how it serves as a component's memory, enabling components to dynamically preserve and update data. I learned how to use the `useState` hook to add state to React components, manage multiple state variables, and understand why state is considered local. This journey into React State has deepened my ability to build more dynamic and responsive user interfaces.
 
 ---
 
@@ -10,14 +10,14 @@ Welcome to **Branch 2.2** of the **React Lab**! In this branch, I’ve explored 
 
 This branch includes:
 
-- **Code examples** demonstrating React event handling techniques.
-- **Exercises** crafted to practice and solidify your knowledge of React events.
+- **Code examples** demonstrating how to implement and manage state in React components.
+- **Exercises** crafted to practice using `useState` and reinforce your understanding of React State.
 
 ---
 
 ## **How to Use This Branch**
 
-To dive into **React event handling**, follow these steps:
+To dive into **React State**, follow these steps:
 
 1. **Clone the repository:**
 
@@ -34,7 +34,7 @@ To dive into **React event handling**, follow these steps:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.2
+   git checkout 2.3
    ```
 
 4. **Install dependencies:**
