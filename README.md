@@ -1,21 +1,23 @@
-# **React Lab - Branch 1.1: React UI Intro** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+# **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-Welcome to **Branch 1.1** of the **React Lab**! In this branch, I explored how to build and manage user interfaces (UI) using React. React allows us to break down complex UIs into smaller, reusable components. I covered rendering components, using props, and conditionally displaying content.
+## **Responding to Events**
+
+Welcome to **Branch 2.1** of the **React Lab**! This branch is dedicated to practicing **React event handling**. Learn how React components respond to various user events, such as clicks, for building interactive applications.
 
 ---
 
 ## **Branch Organization**
 
-In this branch, you will find:
+This branch contains:
 
-- **Code examples** demonstrating how to create and manage React components.
-- **Exercises** to practice working with components and rendering dynamic content.
+- **Code examples** showcasing React event handling.
+- **Exercises** designed to practice these events and deepen your understanding.
 
 ---
 
 ## **How to Use This Branch**
 
-To practice **React UI** concepts, follow these steps:
+To practice **React event handling**, follow these steps:
 
 1. **Clone the repository:**
 
@@ -32,7 +34,7 @@ To practice **React UI** concepts, follow these steps:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 1.1
+   git checkout 2.1
    ```
 
 4. **Install dependencies:**
@@ -51,7 +53,7 @@ To practice **React UI** concepts, follow these steps:
 
 ## **Reach Out to Me**
 
-Feel free to connect with me on the following platforms:
+Feel free to connect with me on any of the following platforms:
 
 <div style="display: flex; gap: 30px;">
    <a href="https://www.linkedin.com/in/eh-munna/">

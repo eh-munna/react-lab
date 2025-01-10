@@ -1,12 +1,21 @@
-import Gallery from './components/Gallery/Gallery';
-import PackingList from './components/PackingList/PackingList';
+import Button from './components/Button/Button';
+import Media from './components/Media/Media';
+import Toolbar from './components/Toolbar/Toolbar';
 
 function App() {
   return (
     <>
-      <Gallery />
-
-      <PackingList />
+      <div className="flex flex-col gap-3">
+        <div className="space-y-3">
+          <Button />
+        </div>
+        <div className="space-y-3">
+          <Toolbar />
+        </div>
+        <div className="space-y-3">
+          <Media />
+        </div>
+      </div>
     </>
   );
 }
