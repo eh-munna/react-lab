@@ -1,23 +1,23 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Responding to Events**
+## **Event Propagation**
 
-Welcome to **Branch 2.1** of the **React Lab**! This branch is dedicated to practicing **React event handling**. Learn how React components respond to various user events, such as clicks, for building interactive applications.
+Welcome to **Branch 2.2** of the **React Lab**! In this branch, I’ve explored **React event propagation** to understand how events traverse React components and the importance of effectively managing this flow. I’ve also learned techniques to stop event propagation, experimented with passing handlers as an alternative, and investigated methods to prevent default behaviors in React applications.
 
 ---
 
 ## **Branch Organization**
 
-This branch contains:
+This branch includes:
 
-- **Code examples** showcasing React event handling.
-- **Exercises** designed to practice these events and deepen your understanding.
+- **Code examples** demonstrating React event handling techniques.
+- **Exercises** crafted to practice and solidify your knowledge of React events.
 
 ---
 
 ## **How to Use This Branch**
 
-To practice **React event handling**, follow these steps:
+To dive into **React event handling**, follow these steps:
 
 1. **Clone the repository:**
 
@@ -34,7 +34,7 @@ To practice **React event handling**, follow these steps:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.1
+   git checkout 2.2
    ```
 
 4. **Install dependencies:**
@@ -53,7 +53,7 @@ To practice **React event handling**, follow these steps:
 
 ## **Reach Out to Me**
 
-Feel free to connect with me on any of the following platforms:
+Feel free to connect with me on any of these platforms:
 
 <div style="display: flex; gap: 30px;">
    <a href="https://www.linkedin.com/in/eh-munna/">
