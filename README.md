@@ -1,35 +1,21 @@
-# **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+# **React Lab - Branch 1.1: React UI Intro** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-Welcome to the **React Lab**! This repository serves as my personal playground to explore and master the fundamentals of React. Each branch represents a focused learning environment for a specific React topic, with code examples, exercises, and documentation.
-
----
-
-## **Overview**
-
-The **React Lab** is structured to:
-
-- **Practice React concepts** through hands-on coding exercises.
-- **Document my learning journey** with detailed notes and observations.
-- Build a **strong foundation in React** by breaking down topics into manageable sections.
-
-The **`main`** branch acts as the central hub for documentation, while all the code and resources are organized across topic-specific branches.
+Welcome to **Branch 1.1** of the **React Lab**! In this branch, I explored how to build and manage user interfaces (UI) using React. React allows us to break down complex UIs into smaller, reusable components. I covered rendering components, using props, and conditionally displaying content.
 
 ---
 
 ## **Branch Organization**
 
-Each branch contains:
+In this branch, you will find:
 
-- **Code examples** and exercises for the topic.
-- **Summarized notes** with key points and insights in a `notes.md` file (if necessary).
+- **Code examples** demonstrating how to create and manage React components.
+- **Exercises** to practice working with components and rendering dynamic content.
 
 ---
 
-## **How to Use the React Lab**
+## **How to Use This Branch**
 
-Each branch corresponds to a distinct React topic or concept. Branches are organized using a naming convention such as [branch number].[sub-branch number]. For example, code for Branch-1 Sub-1 is located in the `1.1` branch.
-
-Follow the steps below to run different branches on your local machine:
+To practice **React UI** concepts, follow these steps:
 
 1. **Clone the repository:**
 
@@ -43,9 +29,7 @@ Follow the steps below to run different branches on your local machine:
    cd react-lab
    ```
 
-3. **Switch to a specific branch:**
-
-   - For example, to switch to branch 1.1
+3. **Switch to this branch:**
 
    ```bash
    git checkout 1.1
@@ -57,16 +41,11 @@ Follow the steps below to run different branches on your local machine:
    npm install
    ```
 
-5. **Follow the README instructions** in the branch to run the code.
+5. **Run the app:**
 
----
-
-## **Goals of the React Lab**
-
-- Develop a **deep understanding of React fundamentals**.
-- Practice React concepts **in isolation** to enhance focus.
-- Create a comprehensive **repository of examples and notes** for future reference.
-- Progress towards building **complex React projects** with confidence.
+   ```bash
+   npm run dev
+   ```
 
 ---
 
