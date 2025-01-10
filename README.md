@@ -7,6 +7,7 @@ Welcome to the **React Lab**! This repository serves as my personal playground t
 ## **Overview**
 
 The **React Lab** is structured to:
+
 - **Practice React concepts** through hands-on coding exercises.
 - **Document my learning journey** with detailed notes and observations.
 - Build a **strong foundation in React** by breaking down topics into manageable sections.
@@ -18,6 +19,7 @@ The **`main`** branch acts as the central hub for documentation, while all the c
 ## **Branch Organization**
 
 Each branch contains:
+
 - **Code examples** and exercises for the topic.
 - **Summarized notes** with key points and insights in a `notes.md` file (if necessary).
 
@@ -30,21 +32,27 @@ Each branch corresponds to a distinct React topic or concept. Branches are organ
 Follow the steps below to run different branches on your local machine:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/eh-munna/react-lab.git
    ```
 
 2. **Navigate to the repository folder:**
+
    ```bash
    cd react-lab
    ```
 
 3. **Switch to a specific branch:**
+
+   - For example, to switch to branch 1.1
+
    ```bash
-   git checkout <branch-number.branch-sub-number>
+   git checkout 1.1
    ```
 
 4. **Install dependencies:**
+
    ```bash
    npm install
    ```
@@ -66,14 +74,14 @@ Follow the steps below to run different branches on your local machine:
 
 Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eh-munna/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/eh-munna)  
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:emran.h.munna@gmail.com)
-
----
-
-### **Technologies Used**
-
-![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
-
-
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/eh-munna/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/eh-munna">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:emran.h.munna@gmail.com">
+    <img src="https://img.shields.io/badge/emran.h.munna@gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
