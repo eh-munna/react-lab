@@ -1,4 +1,6 @@
-# **React Lab - Branch 1.1: React UI Intro** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+# **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+
+## **React UI Intro**
 
 Welcome to **Branch 1.1** of the **React Lab**! In this branch, I explored how to build and manage user interfaces (UI) using React. React allows us to break down complex UIs into smaller, reusable components. I covered rendering components, using props, and conditionally displaying content.
 
