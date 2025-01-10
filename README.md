@@ -74,20 +74,14 @@ Follow the steps below to run different branches on your local machine:
 
 Feel free to connect with me on the following platforms:
 
-<div style="display: flex; gap: 20px;">
-  <p>
-     <a href="https://www.linkedin.com/in/eh-munna/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  </p>
-  <p>
-     <a href="https://github.com/eh-munna">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  </p>
-  <p>
-     <a href="mailto:emran.h.munna@gmail.com">
-    <img src="https://img.shields.io/badge/emran.h.munna@gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  </p>
+<div style="display: flex; gap: 15px;">
+   <a href="https://www.linkedin.com/in/eh-munna/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   <a href="https://github.com/eh-munna">
+      <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub">
+   </a>
+   <a href="mailto:emran.h.munna@gmail.com">
+      <img src="https://img.shields.io/badge/emran.h.munna@gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+   </a>
 </div>
