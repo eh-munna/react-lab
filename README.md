@@ -74,7 +74,7 @@ Follow the steps below to run different branches on your local machine:
 
 Feel free to connect with me on the following platforms:
 
-<div style="display: flex; gap: 15px;">
+<div style="display: flex; gap: 20px;">
    <a href="https://www.linkedin.com/in/eh-munna/">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
    </a>
