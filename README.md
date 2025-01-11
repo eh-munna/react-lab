@@ -17,7 +17,7 @@ This branch includes:
 
 ## **How to Use This Branch**
 
-Follow these steps to explore the **React State as a Snapshot** module:
+Follow these steps to explore the **React Queueing State Updates** module:
 
 1. **Clone the repository:**
 
