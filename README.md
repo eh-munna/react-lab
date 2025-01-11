@@ -1,8 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Queueing a Series of State Updates**
+## **Updating Objects in a State**
 
-Welcome to **Branch 2.7** of the **React Lab**! This branch delves into how React State functions as a snapshot, capturing distinct moments during the lifecycle of your components. It demonstrates how React efficiently records and manages state, ensuring reliable and adaptable component behavior. Practical examples highlight how to leverage state snapshots to enhance the flexibility and robustness of your React applications.
+Welcome to **Branch 2.8** of the **React Lab**! This branch explores how to manage objects within React state effectively. It covers the best practices for handling state updates, particularly when working with complex or nested objects, while maintaining the integrity of the application. Demonstrated how to update objects safely and efficiently in React, ensuring that the components remain predictable and performant.
 
 ---
 
@@ -10,14 +10,14 @@ Welcome to **Branch 2.7** of the **React Lab**! This branch delves into how Reac
 
 This branch includes:
 
-- **Code Examples**: Demonstrations of how to implement and work with state snapshots in React components.
-- **Exercises**: Hands-on practice aimed at strengthening your understanding of React's state management.
+- **Code Examples**: Demonstrations on how to properly manage and update objects in React state, with a focus on handling immutability and nested objects.
+- **Exercises**: Practical exercises designed to reinforce your understanding of updating and working with state objects in React, while ensuring best practices for immutability.
 
 ---
 
 ## **How to Use This Branch**
 
-Follow these steps to explore the **React State as a Snapshot** module:
+Follow these steps to explore the **Updating Objects in a State** module:
 
 1. **Clone the repository:**
 
@@ -34,7 +34,7 @@ Follow these steps to explore the **React State as a Snapshot** module:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.7
+   git checkout 2.8
    ```
 
 4. **Install dependencies:**
@@ -48,16 +48,6 @@ Follow these steps to explore the **React State as a Snapshot** module:
    ```bash
    npm run dev
    ```
-
----
-
-## **Understanding State Updates**
-
-This module explains key concepts related to React's handling of state updates:
-
-- **Batching State Updates**: React processes multiple state updates efficiently by "batching" them together. This means that rather than executing each update immediately, React groups them and applies them in a single operation, optimizing performance and ensuring more predictable behavior.
-
-- **Applying Consecutive Updates**: Learn how to apply several updates to the same state variable in sequence. This can help in efficiently managing state transitions and controlling how changes are made in your React components.
 
 ---
 
