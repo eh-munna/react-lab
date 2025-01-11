@@ -1,10 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **How Rendering Works**
+## **State as a Snapshot**
 
-Welcome to **Branch 2.5** of the **React Lab**! This branch explores React's rendering process, inspired by the _React Documentation's_ `"React Render and Commit"`. It provides insights into how React refreshes and commits changes to the DOM efficiently, ensuring optimal performance and a smooth user experience. The render and commit phases are broken down to offer practical understanding of React's rendering algorithm.
-
-> **Note:** Source code will be added later.
+Welcome to **Branch 2.6** of the **React Lab**! This branch focuses on how React State functions as a snapshot, capturing specific moments during the lifecycle of your components. It explores how React records and manages state efficiently, ensuring reliable and adaptable component behavior. Practical examples illustrate how to utilize state snapshots to enhance the flexibility and robustness of your React applications.
 
 ---
 
@@ -12,14 +10,14 @@ Welcome to **Branch 2.5** of the **React Lab**! This branch explores React's ren
 
 This branch includes:
 
-- **Code Examples**: Demonstrations of how to implement and manage rendering in React components.
-- **Exercises**: Hands-on practice designed to deepen understanding of React's rendering process.
+- **Code Examples**: Demonstrations of how to implement and work with state snapshots in React components.
+- **Exercises**: Hands-on practice aimed at strengthening your understanding of React's state management.
 
 ---
 
 ## **How to Use This Branch**
 
-Follow these steps to dive into the **React Rendering** module:
+Follow these steps to explore the **React State as a Snapshot** module:
 
 1. **Clone the repository:**
 
@@ -36,7 +34,7 @@ Follow these steps to dive into the **React Rendering** module:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.5
+   git checkout 2.6
    ```
 
 4. **Install dependencies:**
