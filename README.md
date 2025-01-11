@@ -1,8 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **State as a Snapshot**
+## **Queueing a Series of State Updates**
 
-Welcome to **Branch 2.6** of the **React Lab**! This branch focuses on how React State functions as a snapshot, capturing specific moments during the lifecycle of your components. It explores how React records and manages state efficiently, ensuring reliable and adaptable component behavior. Practical examples illustrate how to utilize state snapshots to enhance the flexibility and robustness of your React applications.
+Welcome to **Branch 2.7** of the **React Lab**! This branch delves into how React State functions as a snapshot, capturing distinct moments during the lifecycle of your components. It demonstrates how React efficiently records and manages state, ensuring reliable and adaptable component behavior. Practical examples highlight how to leverage state snapshots to enhance the flexibility and robustness of your React applications.
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to explore the **React State as a Snapshot** module:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.6
+   git checkout 2.7
    ```
 
 4. **Install dependencies:**
@@ -48,6 +48,16 @@ Follow these steps to explore the **React State as a Snapshot** module:
    ```bash
    npm run dev
    ```
+
+---
+
+## **Understanding State Updates**
+
+This module explains key concepts related to React's handling of state updates:
+
+- **Batching State Updates**: React processes multiple state updates efficiently by "batching" them together. This means that rather than executing each update immediately, React groups them and applies them in a single operation, optimizing performance and ensuring more predictable behavior.
+
+- **Applying Consecutive Updates**: Learn how to apply several updates to the same state variable in sequence. This can help in efficiently managing state transitions and controlling how changes are made in your React components.
 
 ---
 
