@@ -1,8 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Updating Objects in a State**
+## **Updating Arrays in a State**
 
-Welcome to **Branch 2.8** of the **React Lab**! This branch explores how to manage objects within React state effectively. It covers the best practices for handling state updates, particularly when working with complex or nested objects, while maintaining the integrity of the application. Demonstrated how to update objects safely and efficiently in React, ensuring that the components remain predictable and performant.
+Welcome to **Branch 2.9** of the **React Lab**! This branch dives into the effective management of arrays in React state. It explores best practices for adding, removing, and updating items within arrays, including updating objects inside arrays.
 
 ---
 
@@ -10,14 +10,14 @@ Welcome to **Branch 2.8** of the **React Lab**! This branch explores how to mana
 
 This branch includes:
 
-- **Code Examples**: Demonstrations on how to properly manage and update objects in React state, with a focus on handling immutability and nested objects.
-- **Exercises**: Practical exercises designed to reinforce your understanding of updating and working with state objects in React, while ensuring best practices for immutability.
+- **Code Examples**: Step-by-step demonstrations on how to handle arrays in React state effectively. Covers operations like adding new elements, removing existing ones, and updating objects within arrays while maintaining immutability.
+- **Exercises**: Practical challenges designed to strengthen your understanding of managing and updating array state in React, ensuring best practices and predictable behavior.
 
 ---
 
 ## **How to Use This Branch**
 
-Follow these steps to explore the **Updating Objects in a State** module:
+Follow these steps to explore the **Updating Arrays in a State** module:
 
 1. **Clone the repository:**
 
@@ -34,7 +34,7 @@ Follow these steps to explore the **Updating Objects in a State** module:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.8
+   git checkout 2.9
    ```
 
 4. **Install dependencies:**
