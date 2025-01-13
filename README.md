@@ -6,6 +6,9 @@ Welcome to **Branch 2.10** of the **React Lab**! This branch introduces **Tasker
 
 ---
 
+> ℹ️ **Important Information:**  
+> **This project is only based on <i><u>event handlers</u></i> and <i><u>state management</u></i> in React.**
+
 > ⚠️ **Note:** The whole project template is collected from [#LearnWithSumit](https://www.youtube.com/@LearnwithSumit).
 
 ## **Key Features**
