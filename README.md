@@ -1,8 +1,10 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Updating Arrays in a State**
+## **Declarative vs Imperative UI**
 
-Welcome to **Branch 2.9** of the **React Lab**! This branch dives into the effective management of arrays in React state. It explores best practices for adding, removing, and updating items within arrays, including updating objects inside arrays.
+Welcome to **Branch 3.1** of the **React Lab**!
+
+In this branch, You'll gain a clear understanding of the **declarative UI paradigm** in React and how it differs from the imperative approach. Learn how React State enables smooth handling of user input, leading to a more interactive and maintainable UI through practical examples.
 
 ---
 
@@ -10,14 +12,21 @@ Welcome to **Branch 2.9** of the **React Lab**! This branch dives into the effec
 
 This branch includes:
 
-- **Code Examples**: Step-by-step demonstrations on how to handle arrays in React state effectively. Covers operations like adding new elements, removing existing ones, and updating objects within arrays while maintaining immutability.
-- **Exercises**: Practical challenges designed to strengthen your understanding of managing and updating array state in React, ensuring best practices and predictable behavior.
+- **Concepts & Theory**: This branch focuses on conceptual and theoretical explanations rather than code examples.
+- **Important Links**:
+
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+
+  - <a href='https://react.dev/learn/reacting-to-input-with-state#how-declarative-ui-compares-to-imperative'>How Declarative UI Compares to Imperative</a>
+  - <a href='https://react.dev/learn/reacting-to-input-with-state#thinking-about-ui-declaratively'>Thinking About UI Declaratively</a>
+
+  </div>
 
 ---
 
 ## **How to Use This Branch**
 
-Follow these steps to explore the **Updating Arrays in a State** module:
+Follow these steps to explore the **Declarative vs Imperative UI** module:
 
 1. **Clone the repository:**
 
@@ -34,7 +43,7 @@ Follow these steps to explore the **Updating Arrays in a State** module:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 2.9
+   git checkout 3.1
    ```
 
 4. **Install dependencies:**
