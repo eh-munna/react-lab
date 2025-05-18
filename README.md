@@ -1,10 +1,10 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Introduction to Context API**
+## **Context Passes Through Intermediate Components**
 
-Welcome to **Branch 3.16 ** of the **React Lab**!
+Welcome to **Branch 3.18 ** of the **React Lab**!
 
-In this branch, the potentiality of seamless data sharing in React by "React Context" has been discovered. Learn how to efficiently transport data across highly nested components with React Context, a powerful feature that simplifies prop drilling and improves your application's maintainability.
+In this branch, we look into how React Context allows for effective data sharing throughout the component tree by passing through intermediary components with ease. Look at how beautifully context propagation works even in non-consuming components.
 
 ---
 
@@ -12,8 +12,7 @@ In this branch, the potentiality of seamless data sharing in React by "React Con
 
 ### **_What has been covered_**
 
-- What “prop drilling” is
-- How to pass data using Context Api
+- How to pass context through intermediate components
 
 ### **Resources:**
 
@@ -21,7 +20,7 @@ In this branch, the potentiality of seamless data sharing in React by "React Con
 
   <div style="display: flex; flex-direction: column; gap: 20px;">
 
-- <a href='https://react.dev/learn/passing-data-deeply-with-context'>Passing Data Deeply with Context</a>
+- <a href='https://react.dev/learn/passing-data-deeply-with-context#context-passes-through-intermediate-components'>Context passes through intermediate components</a>
 
 ---
 
@@ -44,7 +43,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 3.13
+   git checkout 3.18
    ```
 
 4. **Install dependencies:**
