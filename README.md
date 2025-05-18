@@ -1,10 +1,10 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Three steps to Consolidate state logic with a reducer**
+## **Introduction to Context API**
 
-Welcome to **Branch 3.13 ** of the **React Lab**!
+Welcome to **Branch 3.16 ** of the **React Lab**!
 
-In this branch, we've explore advanced strategies to extract Logic into a Reducer." It is an important practice for improving the efficiency and maintainability of your React apps.
+In this branch, the potentiality of seamless data sharing in React by "React Context" has been discovered. Learn how to efficiently transport data across highly nested components with React Context, a powerful feature that simplifies prop drilling and improves your application's maintainability.
 
 ---
 
@@ -12,8 +12,8 @@ In this branch, we've explore advanced strategies to extract Logic into a Reduce
 
 ### **_What has been covered_**
 
-- Explain What a reducer function is & how to refactor useState to useReducer
-- Differences between useState and useReducer hook
+- What “prop drilling” is
+- How to pass data using Context Api
 
 ### **Resources:**
 
@@ -21,7 +21,7 @@ In this branch, we've explore advanced strategies to extract Logic into a Reduce
 
   <div style="display: flex; flex-direction: column; gap: 20px;">
 
-- <a href='https://react.dev/learn/extracting-state-logic-into-a-reducer#consolidate-state-logic-with-a-reducer'>Consolidate state logic with a reducer</a>
+- <a href='https://react.dev/learn/passing-data-deeply-with-context'>Passing Data Deeply with Context</a>
 
 ---
 
