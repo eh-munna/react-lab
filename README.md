@@ -1,10 +1,12 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **MovieNest: Your One-Stop React App for Movie Magic and Rentals**
+## **Referencing Values with Refs**
 
-Welcome to **Branch 3.21 ** of the **React Lab**!
+Explain how to add a ref to a component, how to update a refs value, how refs are different from state and how to use refs safely
 
-In this branch, we've built a fascinating project that makes use of Reducer and the React Context API.
+Welcome to **Branch 4.1 ** of the **React Lab**!
+
+In this branch, I've explore how to use useRef to enable efficient value referencing in React. Investigate how useRef can improve my code by allowing direct access to changeable values without requiring re-renders. Improve my React development skills with practical insights.
 
 ---
 
@@ -12,16 +14,15 @@ In this branch, we've built a fascinating project that makes use of Reducer and 
 
 ### **_What has been covered_**
 
-- How to combine a reducer with context
+- How to add a ref to your component
+- How to update a ref’s value
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-
-- <a href='https://react.dev/learn/scaling-up-with-reducer-and-context#combining-a-reducer-with-context'>Combining a reducer with context</a>
-- <a href='https://react.dev/learn/scaling-up-with-reducer-and-context#moving-all-wiring-into-a-single-file'>Moving all wiring into a single file</a>
+- [Adding a ref to your component](https://react.dev/learn/referencing-values-with-refs#adding-a-ref-to-your-component)
+- [Building and controlling a STOPWATCH using useRef](https://react.dev/learn/referencing-values-with-refs#example-building-a-stopwatch)
 
 ---
 
@@ -44,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 3.21
+   git checkout 4.1
    ```
 
 4. **Install dependencies:**
