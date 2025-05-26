@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Project Structure**
+## **Defining Routes**
 
-Explored the project structure of Next.js.
+Explored how to define and organize routes in a Next.js application.
 
 ---
 
-Welcome to **Branch 7.3 ** of the **React Lab**!
+Welcome to **Branch 7.4 ** of the **React Lab**!
 
-Here, I've learned about the Next.js project structure, including the purpose and structure of each directory and file. Discovered how Next.js organizes our codebase for efficient development using pages, components, and public assets. Learned about the routing system and configuration files that power Next.js applications flawlessly.
+Here, I discovered the art of route definition in Next.js, which shows how to construct and manage routes effectively. Learned how to design routes using file-based routing, taking advantage of Next.js' straightforward approach for seamless navigation.
 
 ---
 
@@ -16,15 +16,13 @@ Here, I've learned about the Next.js project structure, including the purpose an
 
 ### **_What has been covered_**
 
-- Project structure and organization.
-- How to configure Tailwind CSS in a Next.js project.
-- Understanding the folder structure and file organization in Next.js.
+- Creating Routes using file-folder based structure.
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Next.js Project Structure](https://nextjs.org/docs/app/getting-started/project-structure)
+- [Defining Routes](https://nextjs.org/docs/14/app/building-your-application/routing/defining-routes)
 
 ---
 
@@ -47,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.3
+   git checkout 7.4
    ```
 
 4. **Install dependencies:**
