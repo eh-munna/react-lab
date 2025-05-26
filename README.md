@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Defining Routes**
+## **Pages and Layouts**
 
-Explored how to define and organize routes in a Next.js application.
+How do the special files layout.js, page.js, and template.js allow to create UI for a route.
 
 ---
 
-Welcome to **Branch 7.4 ** of the **React Lab**!
+Welcome to **Branch 7.5 ** of the **React Lab**!
 
-Here, I discovered the art of route definition in Next.js, which shows how to construct and manage routes effectively. Learned how to design routes using file-based routing, taking advantage of Next.js' straightforward approach for seamless navigation.
+Here following the Next.js documentation, I learned how to use Next.js pages and layouts to their full potential. Learned how to easily generate dynamic pages with Next.js' file-based routing mechanism. Explore the notion of layouts to improve the design and organization of a Next.js app.
 
 ---
 
@@ -16,13 +16,13 @@ Here, I discovered the art of route definition in Next.js, which shows how to co
 
 ### **_What has been covered_**
 
-- Creating Routes using file-folder based structure.
+- Pages and Layouts.
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Defining Routes](https://nextjs.org/docs/14/app/building-your-application/routing/defining-routes)
+- [Pages and Layouts](https://nextjs.org/docs/14/app/building-your-application/routing/pages-and-layouts)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.4
+   git checkout 7.5
    ```
 
 4. **Install dependencies:**
