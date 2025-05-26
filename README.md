@@ -1,10 +1,9 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Referencing Values with Refs**
+## **Manipulating the DOM with Refs**
 
-Explain how to add a ref to a component, how to update a refs value, how refs are different from state and how to use refs safely
-
-Welcome to **Branch 4.1 ** of the **React Lab**!
+Explore accessing React-managed DOM nodes using ref and useRef. Understand modifying another component's DOM safely
+Welcome to **Branch 4.2 ** of the **React Lab**!
 
 In this branch, I've explore how to use useRef to enable efficient value referencing in React. Investigate how useRef can improve my code by allowing direct access to changeable values without requiring re-renders. Improve my React development skills with practical insights.
 
@@ -45,7 +44,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 4.1
+   git checkout 4.2
    ```
 
 4. **Install dependencies:**
