@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Next.js installation & Editor Setup with Tailwind CSS**
+## **Project Structure**
 
-Installed Next.js and configured it with Tailwind CSS. Explored folder structure and file organization in Next.js.
+Explored the project structure of Next.js.
 
 ---
 
-Welcome to **Branch 7.2 ** of the **React Lab**!
+Welcome to **Branch 7.3 ** of the **React Lab**!
 
-Here, I've learned how to quickly set up Next.js for my web development projects with this beginner-friendly installation tutorial from Next.js official documentation.
+Here, I've learned about the Next.js project structure, including the purpose and structure of each directory and file. Discovered how Next.js organizes our codebase for efficient development using pages, components, and public assets. Learned about the routing system and configuration files that power Next.js applications flawlessly.
 
 ---
 
@@ -16,7 +16,7 @@ Here, I've learned how to quickly set up Next.js for my web development projects
 
 ### **_What has been covered_**
 
-- How to set up a new Next.js project.
+- Project structure and organization.
 - How to configure Tailwind CSS in a Next.js project.
 - Understanding the folder structure and file organization in Next.js.
 
@@ -24,7 +24,7 @@ Here, I've learned how to quickly set up Next.js for my web development projects
 
 1. **Official Documentation:**
 
-- [Next.js Installation Documentation](https://nextjs.org/docs/app/getting-started/installation)
+- [Next.js Project Structure](https://nextjs.org/docs/app/getting-started/project-structure)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.2
+   git checkout 7.3
    ```
 
 4. **Install dependencies:**
