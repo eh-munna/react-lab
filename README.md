@@ -1,11 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Manipulating the DOM with Refs**
+## **Next.js installation & Editor Setup with Tailwind CSS**
 
-Explore accessing React-managed DOM nodes using ref and useRef. Understand modifying another component's DOM safely
-Welcome to **Branch 4.2 ** of the **React Lab**!
+Installed Next.js and configured it with Tailwind CSS. Explored folder structure and file organization in Next.js.
 
-In this branch, I've explore how to use useRef to enable efficient value referencing in React. Investigate how useRef can improve my code by allowing direct access to changeable values without requiring re-renders. Improve my React development skills with practical insights.
+---
+
+Welcome to **Branch 7.2 ** of the **React Lab**!
+
+Here, I've learned how to quickly set up Next.js for my web development projects with this beginner-friendly installation tutorial from Next.js official documentation.
 
 ---
 
@@ -13,15 +16,15 @@ In this branch, I've explore how to use useRef to enable efficient value referen
 
 ### **_What has been covered_**
 
-- How to add a ref to your component
-- How to update a ref’s value
+- How to set up a new Next.js project.
+- How to configure Tailwind CSS in a Next.js project.
+- Understanding the folder structure and file organization in Next.js.
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Adding a ref to your component](https://react.dev/learn/referencing-values-with-refs#adding-a-ref-to-your-component)
-- [Building and controlling a STOPWATCH using useRef](https://react.dev/learn/referencing-values-with-refs#example-building-a-stopwatch)
+- [Next.js Installation Documentation](https://nextjs.org/docs/app/getting-started/installation)
 
 ---
 
@@ -44,7 +47,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 4.2
+   git checkout 7.2
    ```
 
 4. **Install dependencies:**
