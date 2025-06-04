@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Pages and Layouts**
+## **Linking and Navigating**
 
-How do the special files layout.js, page.js, and template.js allow to create UI for a route.
+Ways to navigate between routes in Next.js.
 
 ---
 
-Welcome to **Branch 7.5 ** of the **React Lab**!
+Welcome to **Branch 7.6 ** of the **React Lab**!
 
-Here following the Next.js documentation, I learned how to use Next.js pages and layouts to their full potential. Learned how to easily generate dynamic pages with Next.js' file-based routing mechanism. Explore the notion of layouts to improve the design and organization of a Next.js app.
+Here following the Next.js documentation, I learned the art of seamless navigation in Next.js. Discovered how to create hyperlinks and navigate between pages effortlessly using Next.js's built-in Link component.
 
 ---
 
@@ -16,13 +16,14 @@ Here following the Next.js documentation, I learned how to use Next.js pages and
 
 ### **_What has been covered_**
 
-- Pages and Layouts.
+- Using the **`<Link />`** Component
+- Using the _`useRouter`_ hook (Client Components)
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Pages and Layouts](https://nextjs.org/docs/14/app/building-your-application/routing/pages-and-layouts)
+- [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
 
 ---
 
@@ -45,7 +46,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.5
+   git checkout 7.6
    ```
 
 4. **Install dependencies:**

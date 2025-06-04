@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import CustomLink from './CustomLink';
 
 export default function Navbar() {
   return (
@@ -12,10 +13,10 @@ export default function Navbar() {
 
         <ul className="flex space-x-4 text-lg">
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <Link href="/">Home</Link>
+            <CustomLink path="/">Home</CustomLink>
           </li>
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <Link href="/dashboard">Dashboard</Link>
+            <CustomLink path="/dashboard">Dashboard</CustomLink>
           </li>
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
             Contact
