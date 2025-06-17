@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Loading UI and Streaming**
+## **Error Handling**
 
-Loading indicators and streaming content to enhance user experience in a Next.js application.
+How to gracefully handle unexpected runtime errors in nested routes.
 
 ---
 
-Welcome to **Branch 7.7 ** of the **React Lab**!
+Welcome to **Branch 7.8 ** of the **React Lab**!
 
-Here I have learned how to implement loading indicators and streaming content for a seamless user experience in a Next.js application.
+Here I have learned how to gracefully handle errors and display custom error pages in your Next.js applications.
 
 ---
 
@@ -16,14 +16,14 @@ Here I have learned how to implement loading indicators and streaming content fo
 
 ### **_What has been covered_**
 
-- Instant Loading States
-- Streaming with Suspense
+- Handling expected errors
+- Handling uncaught exceptions
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Loading UI and Streaming](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming)
+- [Error Handling](https://nextjs.org/docs/app/getting-started/error-handling)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.7
+   git checkout 7.8
    ```
 
 4. **Install dependencies:**
