@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Error Handling**
+## **Route Groups**
 
-How to gracefully handle unexpected runtime errors in nested routes.
+How to prevent folder from being included in the route's URL path
 
 ---
 
-Welcome to **Branch 7.8 ** of the **React Lab**!
+Welcome to **Branch 7.9** of the **React Lab**!
 
-Here I have learned how to gracefully handle errors and display custom error pages in your Next.js applications.
+Here I have learned how to organize and manage routes efficiently using route groups for better code organization. Elevate my Next.js projects with streamlined routing and improved maintainability through route groups.
 
 ---
 
@@ -16,14 +16,13 @@ Here I have learned how to gracefully handle errors and display custom error pag
 
 ### **_What has been covered_**
 
-- Handling expected errors
-- Handling uncaught exceptions
+- Grouping routes using route groups
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Error Handling](https://nextjs.org/docs/app/getting-started/error-handling)
+- [Route Groups](https://nextjs.org/docs/app/api-reference/file-conventions/route-groups)
 
 ---
 
@@ -46,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.8
+   git checkout 7.9
    ```
 
 4. **Install dependencies:**

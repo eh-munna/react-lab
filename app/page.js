@@ -11,7 +11,7 @@ export default function Home() {
           You&apos;re now viewing the Home page.
         </p>
       </section>
-      <Feature>Error Handling</Feature>
+      <Feature>Route Groups</Feature>
     </>
   );
 }
