@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Route Groups**
+## **Dynamic Route Segments**
 
-How to prevent folder from being included in the route's URL path
+Dynamic Segments that are filled in at request time or pre-rendered at build time
 
 ---
 
-Welcome to **Branch 7.9** of the **React Lab**!
+Welcome to **Branch 7.10** of the **React Lab**!
 
-Here I have learned how to organize and manage routes efficiently using route groups for better code organization. Elevate my Next.js projects with streamlined routing and improved maintainability through route groups.
+Here I have learned the versatility of dynamic routes in Next.js. How to create dynamic routes that adapt to varying data and content in a Next.js applications.
 
 ---
 
@@ -16,13 +16,13 @@ Here I have learned how to organize and manage routes efficiently using route gr
 
 ### **_What has been covered_**
 
-- Grouping routes using route groups
+- Convention for creating dynamic routes in Next.js.
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Route Groups](https://nextjs.org/docs/app/api-reference/file-conventions/route-groups)
+- [Dynamic Route Segments](https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.9
+   git checkout 7.10
    ```
 
 4. **Install dependencies:**

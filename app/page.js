@@ -11,7 +11,7 @@ export default function Home() {
           You&apos;re now viewing the Home page.
         </p>
       </section>
-      <Feature>Route Groups</Feature>
+      <Feature>Dynamic Route Segments</Feature>
     </>
   );
 }
