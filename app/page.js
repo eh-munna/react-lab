@@ -11,7 +11,7 @@ export default function Home() {
           You&apos;re now viewing the Home page.
         </p>
       </section>
-      <Feature>Linking and Navigation</Feature>
+      <Feature>Loading UI and Streaming</Feature>
     </>
   );
 }

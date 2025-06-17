@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Linking and Navigating**
+## **Loading UI and Streaming**
 
 Ways to navigate between routes in Next.js.
 
 ---
 
-Welcome to **Branch 7.6 ** of the **React Lab**!
+Welcome to **Branch 7.7 ** of the **React Lab**!
 
-Here following the Next.js documentation, I learned the art of seamless navigation in Next.js. Discovered how to create hyperlinks and navigate between pages effortlessly using Next.js's built-in Link component.
+Here I have learned how to implement loading indicators and streaming content for a seamless user experience in a Next.js application.
 
 ---
 
@@ -16,14 +16,14 @@ Here following the Next.js documentation, I learned the art of seamless navigati
 
 ### **_What has been covered_**
 
-- Using the **`<Link />`** Component
-- Using the _`useRouter`_ hook (Client Components)
+- Instant Loading States
+- Streaming with Suspense
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
+- [Loading UI and Streaming](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.6
+   git checkout 7.7
    ```
 
 4. **Install dependencies:**

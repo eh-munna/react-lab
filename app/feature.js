@@ -4,12 +4,12 @@ import CustomLink from './components/CustomLink';
 export default function Feature({ children }) {
   return (
     <section className="flex flex-col gap-3 text-center items-center">
-      <h3 className="text-xl text-indigo-400 my-3">{children}</h3>
+      <h3 className="text-2xl text-indigo-400 my-3">{children}</h3>
 
       <div className="flex items-center gap-2">
         <CustomLink
           className=""
-          path="https://github.com/eh-munna/react-lab/tree/7.6"
+          path="https://github.com/eh-munna/react-lab/tree/7.7"
           target="_blank"
         >
           <span className="text-blue-500 hover:text-blue-700 transition-colors duration-300">
@@ -18,7 +18,7 @@ export default function Feature({ children }) {
         </CustomLink>
         <CustomLink
           className="flex items-center gap-2 underline"
-          path="https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating"
+          path="https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming"
           target="_blank"
         >
           Documentation{' '}
