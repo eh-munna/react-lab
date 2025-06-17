@@ -2,7 +2,7 @@
 
 ## **Loading UI and Streaming**
 
-Ways to navigate between routes in Next.js.
+Loading indicators and streaming content to enhance user experience in a Next.js application.
 
 ---
 
