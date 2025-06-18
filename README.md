@@ -6,7 +6,7 @@ Dynamic Segments that are filled in at request time or pre-rendered at build tim
 
 ---
 
-Welcome to **Branch 7.10** of the **React Lab**!
+Welcome to **Branch 7.11** of the **React Lab**!
 
 Here I have learned the versatility of dynamic routes in Next.js. How to create dynamic routes that adapt to varying data and content in a Next.js applications.
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.10
+   git checkout 7.11
    ```
 
 4. **Install dependencies:**

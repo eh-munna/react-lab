@@ -1,6 +1,7 @@
+import Header from '@/app/components/Header';
+import Sidebar from '@/app/components/Sidebar';
+import { getDocuments } from '@/lib/doc';
 import { Geist, Geist_Mono } from 'next/font/google';
-
-import Navbar from './components/Navbar';
 import './globals.css';
 
 const geistSans = Geist({
@@ -19,15 +20,17 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  const allDocuments = getDocuments();
   return (
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <header>
-          <Navbar />
-        </header>
-        <main className="flex flex-col min-h-screen p-6">{children}</main>
+        <Header docs={allDocuments} />
+        <div className="flex">
+          <Sidebar docs={allDocuments} />
+          <main className="container mx-auto p-4">{children}</main>
+        </div>
       </body>
     </html>
   );
