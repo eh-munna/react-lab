@@ -9,8 +9,6 @@ tags: ['docs', 'guide']
 description: 'Introduction to using our tool'
 ---
 
-# Getting Started
-
 Welcome to our documentation site!
 
 This guide will help you get started with our tool quickly and efficiently. Below, you'll find an overview of the key features and how to use them.
