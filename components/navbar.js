@@ -16,7 +16,12 @@ export default function Navbar() {
             <CustomLink path="/">Home</CustomLink>
           </li>
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink path="/">Home</CustomLink>
+            <CustomLink path="/dashboard">Dashboard</CustomLink>
+          </li>
+          <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
+            <CustomLink path="/parallel-dashboard">
+              Parallel-Dashboard
+            </CustomLink>
           </li>
         </ul>
       </nav>

@@ -9,7 +9,7 @@ export default function Feature({ children }) {
       <div className="flex items-center gap-2">
         <CustomLink
           className=""
-          path="https://github.com/eh-munna/react-lab/tree/7.10"
+          path="https://github.com/eh-munna/react-lab/tree/8.2"
           target="_blank"
         >
           <span className="text-blue-500 hover:text-blue-700 transition-colors duration-300">
@@ -18,7 +18,7 @@ export default function Feature({ children }) {
         </CustomLink>
         <CustomLink
           className="flex items-center gap-2 underline"
-          path="https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes"
+          path="https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes"
           target="_blank"
         >
           Documentation{' '}

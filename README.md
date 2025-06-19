@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Project structure and organization**
+## **Parallel Routes**
 
-Organize and collocate project files
+Simultaneously or conditionally render one or more pages within the same layout
 
 ---
 
-Welcome to **Branch 8.1** of the **React Lab**!
+Welcome to **Branch 8.2** of the **React Lab**!
 
-Here I have explore efficient project organization and file colocation strategies in Next.js to enhance code maintainability and scalability.
+Here I have discovered the power of parallel routes in Next.js, optimizing navigation and improving user experience through concurrent routing strategies.
 
 ---
 
@@ -16,13 +16,13 @@ Here I have explore efficient project organization and file colocation strategie
 
 ### **_What has been covered_**
 
-- Folder and file conventions
+- Convention
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Project structure and organization](https://nextjs.org/docs/app/getting-started/project-structure)
+- [Parallel Routes](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 8.1
+   git checkout 8.2
    ```
 
 4. **Install dependencies:**
