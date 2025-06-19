@@ -1,5 +1,5 @@
+import CustomLink from '@/components/CustomLink';
 import Link from 'next/link';
-import CustomLink from './CustomLink';
 
 export default function Navbar() {
   return (
@@ -16,7 +16,7 @@ export default function Navbar() {
             <CustomLink path="/">Home</CustomLink>
           </li>
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink path="/blogs">Blogs</CustomLink>
+            <CustomLink path="/">Home</CustomLink>
           </li>
         </ul>
       </nav>

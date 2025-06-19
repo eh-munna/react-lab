@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Dynamic Route Segments**
+## **Project structure and organization**
 
-Dynamic Segments that are filled in at request time or pre-rendered at build time
+Organize and collocate project files
 
 ---
 
-Welcome to **Branch 7.10** of the **React Lab**!
+Welcome to **Branch 8.1** of the **React Lab**!
 
-Here I have learned the versatility of dynamic routes in Next.js. How to create dynamic routes that adapt to varying data and content in a Next.js applications.
+Here I have explore efficient project organization and file colocation strategies in Next.js to enhance code maintainability and scalability.
 
 ---
 
@@ -16,13 +16,13 @@ Here I have learned the versatility of dynamic routes in Next.js. How to create 
 
 ### **_What has been covered_**
 
-- Convention for creating dynamic routes in Next.js.
+- Folder and file conventions
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Dynamic Route Segments](https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes)
+- [Project structure and organization](https://nextjs.org/docs/app/getting-started/project-structure)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 7.10
+   git checkout 8.1
    ```
 
 4. **Install dependencies:**

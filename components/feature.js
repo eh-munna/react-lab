@@ -1,5 +1,5 @@
+import CustomLink from '@/components/CustomLink';
 import { GithubIcon, SquareArrowOutUpRight } from 'lucide-react';
-import CustomLink from './components/CustomLink';
 
 export default function Feature({ children }) {
   return (

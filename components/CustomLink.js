@@ -1,7 +1,8 @@
 'use client';
+import cn from '@/utils/cn';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import cn from '../utils/cn';
+
 export default function CustomLink({ path, children, ...props }) {
   const pathname = usePathname();
 
