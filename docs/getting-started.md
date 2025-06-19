@@ -21,6 +21,6 @@ This guide will help you get started with our tool quickly and efficiently. Belo
 
 ## Quick Start Guide
 
-1. **Installation**: Follow the installation instructions in the [Installation Guide](installation.md).
+1. **Installation**: Follow the installation instructions in the [Installation Guide](installation).
 2. **Configuration**: Set up your environment by following the [Configuration Guide](configuration.md).
 3. **Usage**: Learn how to use the tool effectively with our [Usage Guide](usage.md).
