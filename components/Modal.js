@@ -1,22 +1,44 @@
 'use client';
 import Button from '@/components/Button';
-import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
+import { useCallback, useEffect, useRef } from 'react';
 
-export default function Modal({ children, onClose }) {
+export default function Modal({ children }) {
+  const router = useRouter();
+  const overlay = useRef(null);
+
+  const onDismiss = useCallback(() => {
+    router.back();
+  }, [router]);
+
+  const onClose = useCallback(
+    (e) => {
+      if (e.target === overlay.current) {
+        onDismiss();
+      }
+    },
+    [onDismiss]
+  );
+
+  const handleEsc = useCallback(
+    (e) => {
+      if (e.key === 'Escape') onDismiss();
+    },
+    [onDismiss]
+  );
+
   useEffect(() => {
-    const handleEsc = (e) => {
-      if (e.key === 'Escape') onClose?.();
-    };
-    window.addEventListener('keydown', handleEsc);
-    return () => window.removeEventListener('keydown', handleEsc);
-  }, [onClose]);
+    document.addEventListener('keydown', handleEsc);
+    return () => document.removeEventListener('keydown', handleEsc);
+  }, [handleEsc]);
 
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-center justify-center"
-      onClick={onClose}
-    >
-      <div className="fixed inset-0 bg-black bg-opacity-40" />
+    <div className="fixed inset-0 z-50 flex items-center justify-center">
+      <div
+        onClick={onClose}
+        ref={overlay}
+        className="fixed inset-0 bg-black/90"
+      />
 
       <div
         className="relative bg-indigo-300 p-6 rounded shadow-lg z-10"
@@ -29,7 +51,7 @@ export default function Modal({ children, onClose }) {
         <div className="mt-6">
           <Button
             className="rounded-md bg-blue-600 p-2 text-white"
-            onClick={onClose}
+            onClick={onDismiss}
           >
             Close
           </Button>
