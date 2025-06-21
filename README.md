@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Matched/Unmatched and Intercepting Routes**
+## **Combining Parallel & Intercepting Routes**
 
-Describing how to manage matched/unmatched routes and intercept Routes
+Combining parallel and intercepting routes to create Modal
 
 ---
 
-Welcome to **Branch 8.3** of the **React Lab**!
+Welcome to **Branch 8.4** of the **React Lab**!
 
-Here I have explore Next.js's unmatched capabilities in handling and intercepting routes, to create dynamic and seamless navigation experiences in a web applications.
+Here I have developed a feature that leverages the power of parallel and intercepting routes in Next.js, unlocking new possibilities for efficient and customizable navigation experiences in a Next.js web applications.
 
 ---
 
@@ -16,15 +16,13 @@ Here I have explore Next.js's unmatched capabilities in handling and interceptin
 
 ### **_What has been covered_**
 
-- Handling matched and unmatched in parallel routes
-- Intercepting routes
+- How to combine parallel and intercepting routes to create Modal
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Unmatched slots](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes#defaultjs)
-- [Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/intercepting-routes)
+- [Combining Parallel & Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes#modals)
 
 ---
 
@@ -47,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 8.3
+   git checkout 8.4
    ```
 
 4. **Install dependencies:**

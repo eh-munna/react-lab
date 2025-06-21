@@ -15,12 +15,6 @@ export default function Navbar() {
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
             <CustomLink href="/">Home</CustomLink>
           </li>
-          <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink href="/dashboard">Dashboard</CustomLink>
-          </li>
-          <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink href="/contact">Contact</CustomLink>
-          </li>
         </ul>
       </nav>
     </>

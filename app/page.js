@@ -1,4 +1,4 @@
-import Feature from '@/components/feature';
+import Feature from '@/components/Feature';
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
           You&apos;re now viewing the Home page.
         </p>
       </section>
-      <Feature>Matched / Unmatched and Intercepting Routes</Feature>
+      <Feature>Combining Parallel & Intercepting Routes</Feature>
     </>
   );
 }
