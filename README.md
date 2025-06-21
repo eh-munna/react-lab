@@ -1,8 +1,8 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Intercepting Routes**
+## **Matched/Unmatched and Intercepting Routes**
 
-Describing how to intercept Routes
+Describing how to manage matched/unmatched routes and intercept Routes
 
 ---
 
@@ -16,12 +16,14 @@ Here I have explore Next.js's unmatched capabilities in handling and interceptin
 
 ### **_What has been covered_**
 
-- Convention
+- Handling matched and unmatched in parallel routes
+- Intercepting routes
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
+- [Unmatched slots](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes#defaultjs)
 - [Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/intercepting-routes)
 
 ---

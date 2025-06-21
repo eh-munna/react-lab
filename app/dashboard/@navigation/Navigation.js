@@ -15,6 +15,11 @@ export default function Navigation() {
             <span>📊 Dashboard</span>
           </CustomLink>
         </li>
+        <li>
+          <CustomLink href="/contact">
+            <span>👤 Contact</span>
+          </CustomLink>
+        </li>
       </ul>
     </nav>
   );
