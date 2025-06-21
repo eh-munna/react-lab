@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Parallel Routes**
+## **Intercepting Routes**
 
-Simultaneously or conditionally render one or more pages within the same layout
+Describing how to intercept Routes
 
 ---
 
-Welcome to **Branch 8.2** of the **React Lab**!
+Welcome to **Branch 8.3** of the **React Lab**!
 
-Here I have discovered the power of parallel routes in Next.js, optimizing navigation and improving user experience through concurrent routing strategies.
+Here I have explore Next.js's unmatched capabilities in handling and intercepting routes, to create dynamic and seamless navigation experiences in a web applications.
 
 ---
 
@@ -22,7 +22,7 @@ Here I have discovered the power of parallel routes in Next.js, optimizing navig
 
 1. **Official Documentation:**
 
-- [Parallel Routes](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes)
+- [Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/intercepting-routes)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 8.2
+   git checkout 8.3
    ```
 
 4. **Install dependencies:**

@@ -13,15 +13,10 @@ export default function Navbar() {
 
         <ul className="flex space-x-4 text-lg">
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink path="/">Home</CustomLink>
+            <CustomLink href="/">Home</CustomLink>
           </li>
           <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink path="/dashboard">Dashboard</CustomLink>
-          </li>
-          <li className="font-bold text-amber-900 hover:text-red-950 transition-all duration-300">
-            <CustomLink path="/parallel-dashboard">
-              Parallel-Dashboard
-            </CustomLink>
+            <CustomLink href="/dashboard">Dashboard</CustomLink>
           </li>
         </ul>
       </nav>
