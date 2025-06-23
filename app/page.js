@@ -11,7 +11,7 @@ export default function Home() {
           You&apos;re now viewing the Home page.
         </p>
       </section>
-      <Feature>Combining Parallel & Intercepting Routes</Feature>
+      <Feature>Route Handlers</Feature>
     </>
   );
 }

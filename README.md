@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Combining Parallel & Intercepting Routes**
+## **Route Handlers**
 
-Combining parallel and intercepting routes to create Modal
+Explaining the Route Handlers
 
 ---
 
-Welcome to **Branch 8.4** of the **React Lab**!
+Welcome to **Branch 8.5** of the **React Lab**!
 
-Here I have developed a feature that leverages the power of parallel and intercepting routes in Next.js, unlocking new possibilities for efficient and customizable navigation experiences in a Next.js web applications.
+Here I have learned how to manage route handlers effectively in Next.js, mastering the art of handling navigation and routing logic with ease.
 
 ---
 
@@ -16,13 +16,13 @@ Here I have developed a feature that leverages the power of parallel and interce
 
 ### **_What has been covered_**
 
-- How to combine parallel and intercepting routes to create Modal
+- HTTP Methods
 
 ### **Resources:**
 
 1. **Official Documentation:**
 
-- [Combining Parallel & Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes#modals)
+- [Route Handlers](https://nextjs.org/docs/app/api-reference/file-conventions/route)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 8.4
+   git checkout 8.5
    ```
 
 4. **Install dependencies:**
