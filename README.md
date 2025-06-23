@@ -1,14 +1,14 @@
 # **React Lab** ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 
-## **Route Handlers**
+## **Route Handlers - Headers, cookies, caching & redirecting**
 
 Explaining the Route Handlers
 
 ---
 
-Welcome to **Branch 8.5** of the **React Lab**!
+Welcome to **Branch 8.6** of the **React Lab**!
 
-Here I have learned how to manage route handlers effectively in Next.js, mastering the art of handling navigation and routing logic with ease.
+Here I have learned capabilities in route handling, delving into header management, cookie handling, caching strategies, and effective redirection techniques to optimize a web application's performance and user experience.
 
 ---
 
@@ -16,7 +16,10 @@ Here I have learned how to manage route handlers effectively in Next.js, masteri
 
 ### **_What has been covered_**
 
-- HTTP Methods
+- Cookies
+- Headers
+- Caching
+- Redirecting
 
 ### **Resources:**
 
@@ -45,7 +48,7 @@ Follow these steps to run this branch in your machine:
 3. **Switch to this branch:**
 
    ```bash
-   git checkout 8.5
+   git checkout 8.6
    ```
 
 4. **Install dependencies:**

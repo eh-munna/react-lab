@@ -9,7 +9,7 @@ export default function Feature({ children }) {
       <div className="flex items-center gap-2">
         <CustomLink
           className=""
-          href="https://github.com/eh-munna/react-lab/tree/8.5"
+          href="https://github.com/eh-munna/react-lab/tree/8.6"
           target="_blank"
         >
           <span className="text-blue-500 hover:text-blue-700 transition-colors duration-300">
