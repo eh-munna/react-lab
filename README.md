@@ -16,10 +16,10 @@ Here I have learned capabilities in route handling, delving into header manageme
 
 ### **_What has been covered_**
 
-- Cookies
-- Headers
-- Caching
 - Redirecting
+- Headers
+- Cookies
+- Caching
 
 ### **Resources:**
 

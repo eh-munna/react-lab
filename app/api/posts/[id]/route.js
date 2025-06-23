@@ -1,9 +1,17 @@
 import getPosts from '@/data/posts';
+import { redirect } from 'next/navigation';
 
 const posts = getPosts();
 
 export async function GET(_, { params }) {
+  // Redirect to the posts list if no specific post is requested
+
   const { id } = await params;
+
+  if (parseInt(id) === 0 || parseInt(id) > posts.length) {
+    redirect('/api/posts');
+  }
+
   const post = posts.find((post) => post.id === parseInt(id));
 
   return new Response(

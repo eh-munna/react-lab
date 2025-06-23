@@ -2,7 +2,29 @@ import getPosts from '@/data/posts';
 
 const posts = getPosts();
 
-export async function GET() {
+export async function GET(request) {
+  // Check if the request has a query parameter for filtering
+
+  const searchParams = request.nextUrl.searchParams;
+  const query = searchParams.get('query');
+  let filteredPosts = posts;
+
+  if (query) {
+    filteredPosts = posts.filter((post) =>
+      post.content.toLowerCase().includes(query)
+    );
+    return new Response(
+      JSON.stringify({
+        message: filteredPosts.length > 0 ? 'Posts found' : 'No posts found',
+        data: filteredPosts,
+      }),
+      {
+        status: filteredPosts.length > 0 ? 200 : 404,
+        headers: { 'Content-Type': 'application/json' },
+      }
+    );
+  }
+
   return new Response(JSON.stringify(posts));
 }
 
